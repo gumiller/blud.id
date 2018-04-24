@@ -1,1 +1,1 @@
-# blud.id
+# Welcome to API BLUD.id
